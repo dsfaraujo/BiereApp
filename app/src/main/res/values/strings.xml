@@ -1,0 +1,13 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">TP2_Biere</string>
+
+    <string-array name="arrayDeString">
+        <item> - Sélectionnez - </item>
+        <item>Blanche</item>
+        <item>Blonde</item>
+        <item>Brune</item>
+        <item>Noire</item>
+        <item>Rousse</item>
+    </string-array>
+
+</resources>

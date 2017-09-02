@@ -1,0 +1,16 @@
+Ale
+Belge
+Bitter
+Bock
+Brown Ale
+Dunkel
+India Pale Ale (IPA)
+Lager
+Pale Ale
+Pilsner
+Porter
+Rauchbier
+Saison
+Stout
+Trappiste
+Weizen
